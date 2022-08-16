@@ -1,5 +1,4 @@
-
-# 70 Projects In 100 Days - HTML, CSS & JavaScript
+[See all projects on CodePen](https://codepen.io/collection/PYKNwO)
 
 70+ mini web projects using HTML, CSS and JavaScript.
 
@@ -7,9 +6,9 @@
 
 |  #  | Project                                                                | Live Demo                                                |
 | :-: | ---------------------------------------------------------------------- | -------------------------------------------------------- |
-| 001 | [Form Validator ]                                                      | [Live Demo](https://codepen.io/solygambas/full/qBaMWjE)  |
+| 001 | [Form Validator ]                                                      | [Live Demo](https://codepen.io/blademan/pen/ExEOQxL)     |
 | 002 | [Movie Seat Booking]                                                   | [Live Demo](https://codepen.io/solygambas/full/VwKGzzg)  |
-| 003 |                                                                        | [Live Demo](https://codepen.io/solygambas/full/jOMvZqY)  |
+| 003 |                                                                        |                                                          |
 
 This repository is mostly based on 2 courses by Brad Traversy (2020):
 
